@@ -1,6 +1,6 @@
 # npmdoc-strftime
 
-#### api documentation for  [strftime (v0.10.0)](http://samhuri.net/proj/strftime)  [![npm package](https://img.shields.io/npm/v/npmdoc-strftime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-strftime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-strftime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-strftime)
+#### basic api documentation for  [strftime (v0.10.0)](http://samhuri.net/proj/strftime)  [![npm package](https://img.shields.io/npm/v/npmdoc-strftime.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-strftime) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-strftime.svg)](https://travis-ci.org/npmdoc/node-npmdoc-strftime)
 
 #### strftime for JavaScript
 
@@ -128,7 +128,8 @@
         "url": "git://github.com/samsonjs/strftime.git"
     },
     "scripts": {},
-    "version": "0.10.0"
+    "version": "0.10.0",
+    "bin": {}
 }
 ```
 
